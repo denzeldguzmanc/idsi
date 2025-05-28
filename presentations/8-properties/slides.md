@@ -148,7 +148,7 @@ Ejemplo: *Un tren muy estético y su impacto*
 
 ## ❓ Incertidumbre
 
-Pueden haber afectaciones inesperadas que comprometan el desempeño de un sistema
+Pueden haber afectaciones inesperadas que comprometan el desempeño de un sistema.
 
 - Robustez
 - Flexibilidad
